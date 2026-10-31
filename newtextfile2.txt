@@ -1,1 +1,3 @@
 newtextfile2
+
+added new info
